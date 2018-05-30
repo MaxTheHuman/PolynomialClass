@@ -1,3 +1,3 @@
 # PolynomialClass
-Sparse implementation of polynoms with almost all functions you may need.
-Class description is located in poly_sparse.h header file.
+Класс многочленов, реализация разреженного хранения (нулевые коэффициенты не хранятся).
+Поддерживает многие операции, которые обычно выполняются над многочленами. Документация появится когда-нибудь.
