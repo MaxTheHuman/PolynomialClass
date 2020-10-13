@@ -1,3 +1,3 @@
 # PolynomialClass
 
-Класс многочленов, реализация разреженного хранения (нулевые коэффициенты не хранятся).
+Polynomial class, sparse realization (zero coefficients are not stored).
